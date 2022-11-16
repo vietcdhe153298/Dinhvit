@@ -1,0 +1,148 @@
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.DoanhThu.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.Home.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.Menu.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.Properties.Resources.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.QuanLyBan.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.QuanLyTaiKhoan.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.SignIn.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.ThanhToan.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.ThongTinCaNhan.resources
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.GenerateResource.cache
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.AssemblyInfoInputs.cache
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.AssemblyInfo.cs
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.CoreCompileInputs.cache
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\appsettings.json
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.exe
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.deps.json
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.runtimeconfig.json
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.runtimeconfig.dev.json
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.pdb
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Humanizer.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.CopyComplete
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ref\ManagementFastFood.dll
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.pdb
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.genruntimeconfig.cache
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.AssemblyReference.cache
+C:\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\refint\ManagementFastFood.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.exe
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.deps.json
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\ManagementFastFood.pdb
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.DoanhThu.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.Home.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.Menu.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.QuanLyBan.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.QuanLyTaiKhoan.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.SignIn.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.ThanhToan.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.ThongTinCaNhan.resources
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\refint\ManagementFastFood.dll
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.pdb
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ManagementFastFood.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\ProjectPRN\projectprn211\ManagementFastFood\ManagementFastFood\obj\Debug\net5.0-windows\ref\ManagementFastFood.dll
